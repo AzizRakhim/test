@@ -97,6 +97,17 @@ console.log(count);
 
 // Problem #12
 
+let n = 9;
+let count = 0;
+
+for(let i = 1; i <= n; i++){
+  count += i;
+}
+
+console.log(count);
+
+// Problem #13
+
 /*
 let  n = 33;
 let count = 0;
@@ -110,7 +121,7 @@ for(let i = 1; i <= n; i++){
 console.log(count);
 */
 
-// Problem #13
+// Problem #14
 
 /*
 let n = 7;
