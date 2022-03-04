@@ -97,6 +97,7 @@ console.log(count);
 
 // Problem #12
 
+/*
 let n = 9;
 let count = 0;
 
@@ -105,6 +106,7 @@ for(let i = 1; i <= n; i++){
 }
 
 console.log(count);
+*/
 
 // Problem #13
 
